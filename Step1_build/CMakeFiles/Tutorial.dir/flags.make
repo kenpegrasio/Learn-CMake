@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jansenken/cmake-4.0.2-tutorial-source/Step1_build
+CXX_INCLUDES = -I"/home/jansenken/Learn CMake/Step1_build"
 
-CXX_FLAGS = 
+CXX_FLAGS = -std=gnu++11
 
